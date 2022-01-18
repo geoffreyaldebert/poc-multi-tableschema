@@ -1,10 +1,10 @@
 {
-    "name": "lieux proposant des services",
-    "id": "lieu-proposant-services",
+    "name": "lieux-proposant-des-services",
+    "id": "lieux-proposant-services",
     "resources": [
         {
           "name": "lieux",
-          "path": "lieux.csv",
+          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/lieux.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
@@ -13,7 +13,7 @@
         },
         {
           "name": "services",
-          "path": "services.csv",
+          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/services.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
@@ -22,7 +22,7 @@
         },
         {
           "name": "acteurs",
-          "path": "acteurs.csv",
+          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/acteurs.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
