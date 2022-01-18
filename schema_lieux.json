@@ -1,0 +1,29 @@
+{
+    "name": "lieux",
+    "title": "Lieux",
+    "description": "Schéma de lieux",
+    "fields": [
+        {
+          "name": "id_lieu",
+          "type": "string",
+          "format": "default",
+          "description": "Unique identifier.",
+          "example": "19257e02-4ea8-48cf-88a8-3f1939571881",
+          "constraints": {
+            "required": true,
+            "unique": true
+          }
+        },
+        {
+          "name": "adresse",
+          "type": "string",
+          "format": "default",
+          "description": "Location address.",
+          "example": "9 rue des plantes 75014 Paris",
+          "constraints": {
+            "required": true
+          }
+        }
+    ],
+    "primaryKey": "id_lieu"
+}
