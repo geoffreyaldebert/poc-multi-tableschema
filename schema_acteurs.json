@@ -1,6 +1,7 @@
 {
     "name": "acteurs",
     "title": "Acteurs",
+    "homepage": "https://github.com/geoffreyaldebert/poc-multi-tableschema",
     "description": "Schéma des acteurs",
     "fields": [
         {

@@ -1,5 +1,6 @@
 {
     "name": "lieux",
+    "homepage": "https://github.com/geoffreyaldebert/poc-multi-tableschema",
     "title": "Lieux",
     "description": "Schéma de lieux",
     "fields": [
