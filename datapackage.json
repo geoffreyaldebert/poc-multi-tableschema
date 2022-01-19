@@ -4,30 +4,30 @@
     "resources": [
         {
           "name": "lieux",
-          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/lieux.csv",
+          "path": "lieux.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
           "encoding": "utf-8",
-          "schema": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/schema_lieux.json"
+          "schema": "schema_lieux.json"
         },
         {
           "name": "services",
-          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/services.csv",
+          "path": "services.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
           "encoding": "utf-8",
-          "schema": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/schema_services.json"
+          "schema": "schema_services.json"
         },
         {
           "name": "acteurs",
-          "path": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/acteurs.csv",
+          "path": "acteurs.csv",
           "profile": "tabular-data-resource",
           "format": "csv",
           "mediatype": "text/csv",
           "encoding": "utf-8",
-          "schema": "https://raw.githubusercontent.com/geoffreyaldebert/poc-multi-tableschema/master/schema_acteurs.json"
+          "schema": "schema_acteurs.json"
         }
       ]
     }
