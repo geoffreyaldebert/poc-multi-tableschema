@@ -1,7 +1,7 @@
 {
     "name": "services",
-    "title": "Services"
-    "version": "0.1.0",,
+    "title": "Services",
+    "version": "0.1.0",
     "homepage": "https://github.com/geoffreyaldebert/poc-multi-tableschema",
     "description": "Schéma de services",
     "fields": [
