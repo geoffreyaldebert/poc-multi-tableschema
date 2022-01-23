@@ -1,5 +1,6 @@
 {
-    "name": "lieux-proposant-des-services",
+    "name": "Lieux proposant des services",
+    "description": "data package d'exemple pour les lieux proposant des services",
     "id": "lieux-proposant-services",
     "resources": [
         {
